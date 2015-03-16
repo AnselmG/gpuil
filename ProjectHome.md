@@ -1,0 +1,1 @@
+goal is the creation of a GPU-accelerated image processing library which allows the uncomplicated usage of image processing technologies.
